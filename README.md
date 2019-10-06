@@ -1,7 +1,9 @@
 `modmerge`
 ---
 
-A command line tool for merging multiple `go.mod` files into a single file. Useful when combining projects or making an "uber module" for projects which use the [multiple module repository](https://github.com/golang/go/wiki/Modules#what-are-multi-module-repositories) pattern.
+A command line tool for merging multiple `go.mod` files into a single file. 
+
+Useful when combining projects or making an "uber module" for projects which use the [multiple module repository](https://github.com/golang/go/wiki/Modules#what-are-multi-module-repositories) pattern.
 
 ## Installation
 
